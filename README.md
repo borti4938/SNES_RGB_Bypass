@@ -191,7 +191,7 @@ If I have a reference url, I will give it.
 - 3x 1.87kOhm resistor 0805 package (0.125W, 1% tolerance should be fine)   
   
 ##### how to install:  
-- cut traces for R', G' and B' right before the MultiAV (but behind C44, C46 and C47)  
+- cut traces for R', G' and B' right before the MultiAV (but behind C44, C45 and C47)  
 - solder the three 1.87kOhm resistors to R8, R13 and R18  
 - solder the three 750Ohm resistors to R9, R14 and R19  
 - solder modding board to the MultiAV  
